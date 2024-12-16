@@ -64,7 +64,7 @@ Metrics used to evaluate the models:
 - F1-Score
 - Confusion Matrix
 
-Results
+## Results
 
 The best-performing model (CumlSVC) achieved:
 - CV Score (Accuracy): 0.712
